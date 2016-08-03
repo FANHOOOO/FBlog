@@ -4,7 +4,7 @@
   <title><![CDATA[FAN BLOG]]></title>
   <link href="http://fanloyu.github.io/FBlog/atom.xml" rel="self"/>
   <link href="http://fanloyu.github.io/FBlog/"/>
-  <updated>2016-08-03T16:07:46-05:00</updated>
+  <updated>2016-08-03T16:25:18-05:00</updated>
   <id>http://fanloyu.github.io/FBlog/</id>
   <author>
     <name><![CDATA[Yifan Jiang]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Welcome My Friend!]]></title>
-    <link href="http://fanloyu.github.io/FBlog/blog/2016/08/03/firstarticle/"/>
+    <link href="http://fanloyu.github.io/FBlog/blog/firstarticle.html/"/>
     <updated>2016-08-03T16:05:52-05:00</updated>
-    <id>http://fanloyu.github.io/FBlog/blog/2016/08/03/firstarticle</id>
+    <id>http://fanloyu.github.io/FBlog/blog/firstarticle</id>
     <content type="html"><![CDATA[<h1>Welcome!</h1>
 
 <p><strong>This is my first post of my blog.</strong><br/>
