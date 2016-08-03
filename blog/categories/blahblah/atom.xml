@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[FAN BLOG]]></title>
-  <link href="http://fanloyu.github.io/FBlog/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Blahblah | FAN BLOG]]></title>
+  <link href="http://fanloyu.github.io/FBlog/blog/categories/blahblah/atom.xml" rel="self"/>
   <link href="http://fanloyu.github.io/FBlog/"/>
   <updated>2016-08-03T16:07:46-05:00</updated>
   <id>http://fanloyu.github.io/FBlog/</id>
