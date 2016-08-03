@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://fanloyu.github.io/FBlog/sitemap.xml 
